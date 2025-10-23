@@ -1,0 +1,6 @@
+.preprocessing
+data/*.txt
+
+.git
+.env
+__pycache__/
