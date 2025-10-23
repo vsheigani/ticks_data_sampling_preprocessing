@@ -2,5 +2,7 @@
 data/*.txt
 
 .git
-.env
+.env/
+.venv/
 __pycache__/
+.DS_Store
